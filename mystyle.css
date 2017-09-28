@@ -76,15 +76,15 @@ font-size: 20px;
 	border-color: transparent;
 	}
 	
-	.jumbotron {
+	.jumbotron-page {
  width:100%;
-  height: 40vh;
+  height: 10vh;
   /*background:#88888;*/
   display:table;
 }
 }
 
-.jumbotron {
+.jumbotron{
  width:100%;
   height: 50vh;
   /*background:#88888;*/
