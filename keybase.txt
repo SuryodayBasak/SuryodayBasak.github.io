@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/suryo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://suryodaybasak.info
+  * I am suryo (https://keybase.io/suryo) on keybase.
+  * I have a public key ASBSNlPPdaWFq3qizWWfic7IXu1GOdEqTaLSGZmP-wDZ7Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120523653cf75a585ab7aa2cd659f89cec85eed4639d12a4da2d219998ffb00d9ed0a",
+      "host": "keybase.io",
+      "kid": "0120523653cf75a585ab7aa2cd659f89cec85eed4639d12a4da2d219998ffb00d9ed0a",
+      "uid": "e050b3ef8f499c0992fcb8c408766a19",
+      "username": "suryo"
+    },
+    "merkle_root": {
+      "ctime": 1512240960,
+      "hash": "406644e7d4337410271cce8c4ed92ef3e1822accdb0c4f8922b7ab5eec8ba621997c76181099a6a9661d85b9d0a7cd52a8e3eb3a86beae27821fbac552ad8a18",
+      "hash_meta": "5a60272f3cb1d78b778a0ded1619b3ea63b360ebb9a16174ca740628ca2b40cd",
+      "seqno": 1772473
+    },
+    "service": {
+      "hostname": "suryodaybasak.info",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1512241018,
+  "expire_in": 504576000,
+  "prev": "0df01c8ccc07cef1f54dc859a0ec55c5522b5b3b745557c6f9e9ec44c4fe6008",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUjZTz3Wlhat6os1ln4nOyF7tRjnRKk2i0hmZj/sA2e0Kp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTIzNjUzY2Y3NWE1ODVhYjdhYTJjZDY1OWY4OWNlYzg1ZWVkNDYzOWQxMmE0ZGEyZDIxOTk5OGZmYjAwZDllZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTIzNjUzY2Y3NWE1ODVhYjdhYTJjZDY1OWY4OWNlYzg1ZWVkNDYzOWQxMmE0ZGEyZDIxOTk5OGZmYjAwZDllZDBhIiwidWlkIjoiZTA1MGIzZWY4ZjQ5OWMwOTkyZmNiOGM0MDg3NjZhMTkiLCJ1c2VybmFtZSI6InN1cnlvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEyMjQwOTYwLCJoYXNoIjoiNDA2NjQ0ZTdkNDMzNzQxMDI3MWNjZThjNGVkOTJlZjNlMTgyMmFjY2RiMGM0Zjg5MjJiN2FiNWVlYzhiYTYyMTk5N2M3NjE4MTA5OWE2YTk2NjFkODViOWQwYTdjZDUyYThlM2ViM2E4NmJlYWUyNzgyMWZiYWM1NTJhZDhhMTgiLCJoYXNoX21ldGEiOiI1YTYwMjcyZjNjYjFkNzhiNzc4YTBkZWQxNjE5YjNlYTYzYjM2MGViYjlhMTYxNzRjYTc0MDYyOGNhMmI0MGNkIiwic2Vxbm8iOjE3NzI0NzN9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic3VyeW9kYXliYXNhay5pbmZvIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUxMjI0MTAxOCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwZGYwMWM4Y2NjMDdjZWYxZjU0ZGM4NTlhMGVjNTVjNTUyMmI1YjNiNzQ1NTU3YzZmOWU5ZWM0NGM0ZmU2MDA4Iiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAlUyZBMNd3KzL8/9vLBhyTEojJVlZy0+RxD9ZGADetQ7ogIYAv//WNeIwRZKjgtFQ+mHqPJDHEKLG3V47ZlHuCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ98rK8tQ3yCWQGPk9ufafJCuQWO30A0PYq/NFK9d+DLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/suryo
+
+==================================================================
