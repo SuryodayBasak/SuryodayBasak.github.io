@@ -25,11 +25,14 @@ p {
 font-size:18px;
 margin-top: 30px;
 margin-bottom: 10px;
+text-align: justify;
+text-justify: inter-word;
+font-size: 17px;
 }
 
 h2.text {
-font-family: 'Josefin Sans', sans-serif;
-color: #214478;
+font-family: 'Suez One', serif;
+color: #02404E;
 text-align: center;
 margin-top: 50px;
 margin-bottom: 30px;
@@ -39,7 +42,7 @@ margin-bottom: 30px;
 
 h1.jumboton-text { 
 /*font-family: "LeagueGothicRegular","Helvetica Neue","Helvetica","Arial";*/
-font-family: 'Josefin Sans', sans-serif;
+font-family: 'Suez One', serif;
 font-weight: bold;
 color: #FFFFFF ;
 }
@@ -52,7 +55,7 @@ color: #FFFFFF ;
 .navbar li {
 color: #FFFFFF;
 font-size: 20px;
-font-family: 'Josefin Sans', sans-serif;
+font-family: 'Suez One', serif;
 }
 
 
@@ -70,7 +73,7 @@ font-family: 'Josefin Sans', sans-serif;
 }
 
 .navbar-brand {
-font-family: 'Josefin Sans', sans-serif;
+font-family: 'Suez One', serif;
 font-weight: bold;
 color: #FFFFFF;
 font-size: 20px;
@@ -113,4 +116,10 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
+}
+
+.col-md-2 {
+font-family: 'Suez One', serif;
+font-size: 25px;
+text-align: center;
 }
