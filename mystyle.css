@@ -143,3 +143,15 @@ text-align: center;
 }
 
 .top-buffer { margin-top:20px; }
+
+html {
+  scroll-behavior: smooth;
+}
+
+a.topbar {
+	color: #0D0D0D;
+}
+a:hover {
+	color: #02404E;
+	text-decoration: none;
+}
